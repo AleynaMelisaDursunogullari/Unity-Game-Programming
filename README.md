@@ -1,5 +1,4 @@
 # Unity-Game-Programming
-Unity-Game Programming
 
 
 For detailed information about this project, you can watch the video below:
